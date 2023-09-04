@@ -13,6 +13,7 @@ import Loading from "./layout/component/Loading";
 // import Contact from "./components/contact/Contact";
 // import Home from "./components/home/Home";
 // import Footer from "./layout/component/footer/Footer";
+
 function App() {
   return (
     <>

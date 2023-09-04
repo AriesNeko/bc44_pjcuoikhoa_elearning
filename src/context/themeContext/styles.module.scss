@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap");
+
 :root:has(.theme) {
    --clr-white: rgb(255, 255, 255);
    --clr-white-dot95: rgba(255, 255, 255, 0.95);
@@ -40,8 +41,8 @@
    --clr-bg-modalVideo: rgb(38, 38, 38);
    --clr-bg-btnModalVideo: #737373;
 
-   --clr-primary: #ff6600;
-   --clr-highlight: #ff4500;
+   --clr-primary: #1eb2a6;
+   --clr-highlight: #1eb2a6;
 
    --clr-bg1: #e88021;
    --clr-bg2: #9b2020;
