@@ -1,0 +1,65 @@
+.user {
+   .main {
+      display: flex;
+      flex-direction: column;
+
+      @media (min-width: 992px) {
+         flex-direction: row;
+      }
+   }
+}
+
+.userInfor {
+   width: 100%;
+   background: var(--clr-bg10);
+   text-align: center;
+   color: var(--clr-text5);
+   padding: 20px;
+
+   @media (min-width: 998px) {
+      width: 300px;
+   }
+
+   .image {
+      width: 200px;
+      height: 200px;
+      line-height: 200px;
+      text-align: center;
+      margin: 0 auto;
+      background: var(--clr-primary);
+      color: var(--clr-icon);
+      border-radius: 20%;
+      font-size: 100px;
+      font-weight: 500;
+   }
+
+   .name {
+      margin-top: 1.25rem;
+      font-size: 1.875rem;
+      font-weight: 500;
+      color: var(--clr-primary);
+   }
+
+   .type {
+      font-size: 1.25rem;
+      font-weight: 500;
+
+      &.quanTri {
+         color: var(--clr-red);
+      }
+   }
+
+   .amount {
+      color: var(--clr-select);
+   }
+}
+
+.userDetails {
+   overflow: hidden;
+   margin: 1.25rem 1rem;
+
+   @media (min-width: 992px) {
+      width: 100%;
+      margin: 1.25rem 2rem 3rem;
+   }
+}

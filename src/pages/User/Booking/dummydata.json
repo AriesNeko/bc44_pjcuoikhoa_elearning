@@ -1,0 +1,65 @@
+[
+    {
+        "maKhoaHoc": "123131399990000",
+        "biDanh": "zxczxczxc",
+        "tenKhoaHoc": "zxczxczxc",
+        "moTa": "hừmmmmmmmmm",
+        "luotXem": 100,
+        "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/zxczxczxc.jpg",
+        "maNhom": "gp01",
+        "ngayTao": "01/09/2023",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "guldiusgvils",
+            "hoTen": "guldiusgvils",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "BackEnd",
+            "tenDanhMucKhoaHoc": "Lập trình Backend"
+        }
+    },
+    {
+        "maKhoaHoc": "123131399990000",
+        "biDanh": "zxczxczxc",
+        "tenKhoaHoc": "zxczxczxc",
+        "moTa": "hừmmmmmmmmm",
+        "luotXem": 100,
+        "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/zxczxczxc.jpg",
+        "maNhom": "gp01",
+        "ngayTao": "01/09/2023",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "guldiusgvils",
+            "hoTen": "guldiusgvils",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "BackEnd",
+            "tenDanhMucKhoaHoc": "Lập trình Backend"
+        }
+    },
+    {
+        "maKhoaHoc": "123131399990000",
+        "biDanh": "zxczxczxc",
+        "tenKhoaHoc": "zxczxczxc",
+        "moTa": "hừmmmmmmmmm",
+        "luotXem": 100,
+        "hinhAnh": "https://elearningnew.cybersoft.edu.vn/hinhanh/zxczxczxc.jpg",
+        "maNhom": "gp01",
+        "ngayTao": "01/09/2023",
+        "soLuongHocVien": 0,
+        "nguoiTao": {
+            "taiKhoan": "guldiusgvils",
+            "hoTen": "guldiusgvils",
+            "maLoaiNguoiDung": "GV",
+            "tenLoaiNguoiDung": "Giáo vụ"
+        },
+        "danhMucKhoaHoc": {
+            "maDanhMucKhoahoc": "BackEnd",
+            "tenDanhMucKhoaHoc": "Lập trình Backend"
+        }
+    }
+]
